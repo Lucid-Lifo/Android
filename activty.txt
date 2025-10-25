@@ -1,43 +1,46 @@
-1.	Create an app that displays your name and email id.
-2.	Create an app that takes marks of any three subjects from the user and displays its sum and average.
-3.	Create suitable apps to design the different layouts of the android studio.
-4.	Develop a simple calculator app.
-5.	Create an app that changes text color when a button is clicked.
-6.	Create an app that displays Date and Time in different formats using Linear Layout.
-7.	Create an app that displays a Toast on the launch of an activity.
-8.	Create an app that creates an Alert Dialog Box.
-9.	Create a Greeting card app that displays an image.
-10.	Create an app that plays audio when we click on the button “Play Music” and plays a video when we click on the button “Play Video”
-11.	Create an app that plays video from the internet.
-12.	Create an app to demonstrate Options Menu.
-13.	Create an app that changes the background color of an activity using Context Menu.
-14.	Create an app to demonstrate how radiobuttons and checkboxes can be used in android
-15.	Create an app that launches a new activity on a button click.
-16.	Create an activity that takes two integers from the user and displays the sum in the next activity.
-17.	Create an app that launches a webpage from an activity.
-18.	Create an app to broadcast a custom intent
-19.	Create an app to broadcast a system intent (AIRPLANE MODE CHANGED)
-20.	Create an alarm application.
-21.	Create an app to demonstrate Notification in android.
-22.	Create an app that displays a simple ListView. (Contacts list)
-23.	Create an app that displays a Custom ListView.
-24.	Create a GridView using Array Adapter.
-25.	Create a Custom GridView using Base Adapter.
-26.	Create an app that implement a counter.
-27.	Create an app to implement AsyncTask.
-28.	Create an app that convert text to voice.
-29.	Create an application that adds, updates and deletes the students of an institution.
-30.	Create an application to demonstrate Registration and Login using SQLiteDatabase.
-31.	Create an app for database operations (Add, Update, Delete, View).
-32.	Create an application to retrieve and display contacts on your phone.
-33.	Create a simple android application that parses a JSON object and a JSON array.
-34.	Create a Call app using Implicit Intent.
-35.	Create an app to send an SMS.
-36.	Create an app to send an Email.
-37.	Create an app that lists all the sensors in the device.
-38.	Create an app that changes the background color of the layout on sensing a shake of the device.
-39.	Create an app that displays the current location (latitude and longitude) of the device.
-41.	Db operations
+1. Display name and email id.
+2. Calculate sum and average of three marks.
+3. Design different Android layouts (Linear, Relative, etc.).
+4. Build a simple calculator.
+5. Change text color on button click.
+6. Display date and time in various formats.
+7. Show a Toast message on app launch.
+8. Create an Alert Dialog box.
+9. Create a greeting card with an image.
+10. Play audio and video on button clicks.
+11. Stream a video from the internet.
+12. Implement an Options Menu.
+13. Change background color using a Context Menu.
+14. Use RadioButtons and CheckBoxes.
+15. Open a new screen (Activity) on button click.
+16. Pass the sum of two numbers to a new screen.
+17. Open a webpage from the app.
+18. Broadcast a custom intent.
+19. Listen for Airplane Mode changes (System Intent).
+20. Build an alarm clock app.
+21. Show a system notification.
+22. Display a simple ListView (e.g., contacts).
+23. Create a Custom ListView.
+24. Create a GridView with an Array Adapter.
+25. Create a Custom GridView.
+26. Implement a simple counter.
+27. Use AsyncTask for a background task.
+28. Implement Text-to-Speech.
+29. Manage student records (Add, Update, Delete).
+No foreign words were detected in the list, so no ... tags were added. The list is now numerically
+labeled for better organization and reference. Let me know if you need further formatting or
+code examples.
+30. Create Login/Registration with SQLite.
+31. Perform database operations (CRUD) with SQLite.
+32. Read and display phone contacts.
+33. Parse JSON objects and arrays.
+34. Make a phone call using an Intent.
+35. Send an SMS message.
+36. Send an email.
+37. List all device sensors.
+38. Change background color on device shake.
+39. Get and display current GPS location.
+41. Perform database operations
 
 
 Program 1
@@ -5471,4 +5474,5 @@ xml file
             android:layout_height="wrap_content"/>
     </LinearLayout>
 </ScrollView>
+
 
